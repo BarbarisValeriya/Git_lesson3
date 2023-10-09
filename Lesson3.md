@@ -2,4 +2,4 @@ Lesson 3
 
 GIT add
 
-Chsnges in remote repository
+Changes in remote repository
